@@ -47,7 +47,7 @@ Example of color registery keys
 "Control - Rebar - V-Line2"=dword:
 
 Next Tests and Discoveries:
-1 Can I move CustomTheme folder - RESULTS: NO
-1 Can I re-create this without the custom theme option in prior versions of PSP?
-1 Can I get PSP to recognize and allow my custom themes?
-1 Can I create custom themes and get them to load dynamically?
+- Can I move CustomTheme folder - RESULTS: NO
+- Can I re-create this without the custom theme option in prior versions of PSP?
+- Can I get PSP to recognize and allow my custom themes?
+- Can I create custom themes and get them to load dynamically?
